@@ -5,7 +5,7 @@ listOfWords = ["british", "suave", "integrity", "accent", "evil", "genius", "dow
 wordChosen = random.choice(listOfWords).lower()
 
 Guess = []
-print(wordChosen)
+
 
 
 print("Welcome to my hangman games")
